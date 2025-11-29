@@ -2,6 +2,9 @@
 
 Control AI coding assistants (Claude Code, Codex) remotely from Telegram, GitHub, and more. Built for developers who want to code from anywhere with persistent sessions and flexible workflows/systems.
 
+YOUTUBE:: https://www.youtube.com/watch?v=mo6JSQdPkYo
+
+
 **Quick Start:** [Core Configuration](#1-core-configuration-required) • [AI Assistant Setup](#2-ai-assistant-setup-choose-at-least-one) • [Platform Setup](#3-platform-adapter-setup-choose-at-least-one) • [Start the App](#4-start-the-application) • [Usage Guide](#usage)
 
 ## Features
